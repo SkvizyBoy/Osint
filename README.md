@@ -19,7 +19,7 @@
 
 ## Скриншоты
 
-![Главное окно](docs/screenshots/main-window.png)
+![Главное окно](main-window.png)
 
 ## Горячие клавиши
 
